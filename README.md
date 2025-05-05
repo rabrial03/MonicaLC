@@ -1,2 +1,0 @@
-# MonicaLC
-Ciberseguridad-KeepCoding
